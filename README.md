@@ -2,7 +2,7 @@
  
  ## Demo
 You can see point cloud of long throw mode of HoloLens 2.<br>
- [![](https://img.youtube.com/vi/MntirdBpkps/0.jpg)](https://www.youtube.com/watch?v=MntirdBpkps)
+[![](https://img.youtube.com/vi/6-AN_7Xj8f8/0.jpg)](https://www.youtube.com/watch?v=6-AN_7Xj8f8)
  
  ## Setup
 1. Turn on research mode. (See, frollowing web site) <br>
