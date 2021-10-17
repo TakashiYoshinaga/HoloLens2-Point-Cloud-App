@@ -19,7 +19,7 @@ https://github.com/TakashiYoshinaga/HoloLens2-Point-Cloud-App/releases/download/
 1. Launch app named AR Fukuoka
 2. Do not move your head until point cloud appear in front of you.
 
-# Notice
+## Notice
 1. You must agree it's not stable because still being alpha version.
 2. If you want to record your scene, trigger from deviceportal of web browser.
 * Simetimes recording doesn't work if it's triggerd hand menue of HoloLens2.
