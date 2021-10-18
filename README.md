@@ -10,7 +10,7 @@ You can see point cloud of long throw mode of HoloLens 2.<br>
 https://docs.microsoft.com/en-us/windows/mixed-reality/develop/platform-capabilities-and-apis/research-mode
  
 2. Dwonload installer and run it on HoloLens2. <br>
-https://github.com/TakashiYoshinaga/HoloLens2-Point-Cloud-App/releases/download/V1.0.0/AR.Fukuoka_1.0.0.0_arm64.appxbundle <br>
+https://github.com/TakashiYoshinaga/HoloLens2-Point-Cloud-App/releases/download/V1.0.0/AR.Fukuoka_1.0.0.0_arm64.appxbundle <br><br>
 Or scan QR code with HoloLens2.<br>
 ![QR](https://github.com/TakashiYoshinaga/HoloLens2-Point-Cloud-App/blob/main/canvas.png "installer")
 
