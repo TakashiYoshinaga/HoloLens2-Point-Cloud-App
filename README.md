@@ -14,7 +14,7 @@ https://github.com/TakashiYoshinaga/HoloLens2-Point-Cloud-App/releases/download/
 ![QR](https://github.com/TakashiYoshinaga/HoloLens2-Point-Cloud-App/blob/main/canvas.png "installer")
 
 3. Exit demo applicaton after finishing installation and launching application. <br>
-* Color mapping does not work correctly when the app is first launched.
+*) Color mapping does not work correctly when the app is first launched.
 
 ## Experience
 1. Launch app named AR Fukuoka
@@ -22,6 +22,6 @@ https://github.com/TakashiYoshinaga/HoloLens2-Point-Cloud-App/releases/download/
 
 ## Notice
 1. You must agree it's not stable because still being alpha version.
-2. If you want to record video of your experience, I recomend to send trigger from deviceportal of web browser.
-* Sometimes recording doesn't work if it's triggerd hand menue of HoloLens2.
-* If you want to start recording from hand menue of HoloLens2, toggle scan mode off from hand menue of this application before recording.
+2. If you want to record video of your experience, I recomend to send trigger from deviceportal of web browser.  <br>
+*) Sometimes recording doesn't work if it's triggerd hand menue of HoloLens2. <br>
+*) If you want to start recording from hand menue of HoloLens2, toggle scan mode off from hand menue of this application before recording.  <br>
