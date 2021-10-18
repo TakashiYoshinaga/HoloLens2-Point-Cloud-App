@@ -11,6 +11,7 @@ https://docs.microsoft.com/en-us/windows/mixed-reality/develop/platform-capabili
  
 2. Dwonload installer and run it on HoloLens2. <br>
 https://github.com/TakashiYoshinaga/HoloLens2-Point-Cloud-App/releases/download/V1.0.0/AR.Fukuoka_1.0.0.0_arm64.appxbundle <br>
+Or scan QR code with HoloLens2.<br>
 ![QR](https://github.com/TakashiYoshinaga/HoloLens2-Point-Cloud-App/blob/main/canvas.png "installer")
 
 3. Exit demo applicaton after finishing installation and launching application. <br>
