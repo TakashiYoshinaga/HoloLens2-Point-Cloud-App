@@ -22,5 +22,6 @@ https://github.com/TakashiYoshinaga/HoloLens2-Point-Cloud-App/releases/download/
 
 ## Notice
 1. You must agree it's not stable because still being alpha version.
-2. If you want to record your scene, trigger from deviceportal of web browser.
-* Simetimes recording doesn't work if it's triggerd hand menue of HoloLens2.
+2. If you want to record video of your experience, I recomend to send trigger from deviceportal of web browser.
+* Sometimes recording doesn't work if it's triggerd hand menue of HoloLens2.
+* If you want to start recording from hand menue of HoloLens2, toggle scan mode off from hand menue of this application before recording.
